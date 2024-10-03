@@ -38,7 +38,3 @@ Ambos os sites têm layouts desafiadores e ricos em detalhes, permitindo explora
 ---
 
 Esse projeto é uma excelente oportunidade para aprimorar minhas habilidades em **web design** e me preparar para desafios mais avançados no desenvolvimento front-end.
-
----
-
-Assim, você pode apresentar de forma clara e profissional o seu projeto de estudo com um layout elegante e organizado.
