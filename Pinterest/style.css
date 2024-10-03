@@ -22,7 +22,8 @@ nav {
   gap: 24px;
 }
 
-nav, main {
+nav,
+main {
   padding: 12px;
 }
 
